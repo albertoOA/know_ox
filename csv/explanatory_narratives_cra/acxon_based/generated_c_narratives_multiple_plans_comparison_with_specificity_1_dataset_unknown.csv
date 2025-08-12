@@ -1,0 +1,381 @@
+Pair ID,Explanation
+pair_0,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'B'. 
+"
+pair_1,"'A' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'C'. 
+"
+pair_2,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'D'. 
+"
+pair_3,"'A' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'E'. 
+"
+pair_4,"'A' is more expensive plan than and is shorter plan than and is slower plan than 'F'. 
+"
+pair_5,"'A' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'G'. 
+"
+pair_6,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'H'. 
+"
+pair_7,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'I'. 
+"
+pair_8,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'J'. 
+"
+pair_9,"'A' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'K'. 
+"
+pair_10,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'L'. 
+"
+pair_11,"'A' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_12,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'N'. 
+"
+pair_13,"'A' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_14,"'A' is more expensive plan than and is shorter plan than and is slower plan than 'P'. 
+"
+pair_15,"'A' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_16,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'R'. 
+"
+pair_17,"'A' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_18,"'A' is cheaper plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_19,"'B' is cheaper plan than and is longer plan than and is faster plan than 'C'. 
+"
+pair_20,"'B' is cheaper plan than and is longer plan than and is faster plan than 'D'. 
+"
+pair_21,"'B' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'E'. 
+"
+pair_22,"'B' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'F'. 
+"
+pair_23,"'B' is cheaper plan than and is longer plan than and is faster plan than 'G'. 
+"
+pair_24,"'B' is more expensive plan than and is longer plan than and is faster plan than 'H'. 
+"
+pair_25,"'B' is cheaper plan than and is longer plan than and is faster plan than 'I'. 
+"
+pair_26,"'B' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'J'. 
+"
+pair_27,"'B' is cheaper plan than and is longer plan than and is faster plan than 'K'. 
+"
+pair_28,"'B' is more expensive plan than and is longer plan than and is faster plan than 'L'. 
+"
+pair_29,"'B' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_30,"'B' is cheaper plan than and is longer plan than and is faster plan than 'N'. 
+"
+pair_31,"'B' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_32,"'B' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_33,"'B' is cheaper plan than and is longer plan than and is faster plan than 'Q'. 
+"
+pair_34,"'B' is more expensive plan than and is longer plan than and is faster plan than 'R'. 
+"
+pair_35,"'B' is cheaper plan than and is longer plan than and is faster plan than 'S'. 
+"
+pair_36,"'B' is more expensive plan than and is longer plan than and is faster plan than 'T'. 
+"
+pair_37,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'D'. 
+"
+pair_38,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'E'. 
+"
+pair_39,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'F'. 
+"
+pair_40,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'G'. 
+"
+pair_41,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'H'. 
+"
+pair_42,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'I'. 
+"
+pair_43,"'C' is more expensive plan than and is shorter plan than and is slower plan than 'J'. 
+"
+pair_44,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'K'. 
+"
+pair_45,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'L'. 
+"
+pair_46,"'C' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_47,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'N'. 
+"
+pair_48,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_49,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_50,"'C' is more expensive plan than and is shorter plan than and is slower plan than 'Q'. 
+"
+pair_51,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'R'. 
+"
+pair_52,"'C' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'S'. 
+"
+pair_53,"'C' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_54,"'D' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'E'. 
+"
+pair_55,"'D' is more expensive plan than and is shorter plan than and is slower plan than 'F'. 
+"
+pair_56,"'D' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'G'. 
+"
+pair_57,"'D' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'H'. 
+"
+pair_58,"'D' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'I'. 
+"
+pair_59,"'D' is more expensive plan than and is shorter plan than and is slower plan than 'J'. 
+"
+pair_60,"'D' is cheaper plan than and is longer plan than and is faster plan than 'K'. 
+"
+pair_61,"'D' is more expensive plan than and is shorter plan than and is slower plan than 'L'. 
+"
+pair_62,"'D' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_63,"'D' is more expensive plan than and is shorter plan than and is slower plan than 'N'. 
+"
+pair_64,"'D' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_65,"'D' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_66,"'D' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_67,"'D' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'R'. 
+"
+pair_68,"'D' is cheaper plan than and is plan with same number of tasks as and is faster plan than 'S'. 
+"
+pair_69,"'D' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_70,"'E' is cheaper plan than and is shorter plan than and is slower plan than 'F'. 
+"
+pair_71,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'G'. 
+"
+pair_72,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'H'. 
+"
+pair_73,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'I'. 
+"
+pair_74,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'J'. 
+"
+pair_75,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'K'. 
+"
+pair_76,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'L'. 
+"
+pair_77,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_78,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'N'. 
+"
+pair_79,"'E' is cheaper plan than and is longer plan than and is faster plan than 'O'. 
+"
+pair_80,"'E' is cheaper plan than and is shorter plan than and is slower plan than 'P'. 
+"
+pair_81,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_82,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'R'. 
+"
+pair_83,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_84,"'E' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'T'. 
+"
+pair_85,"'F' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'G'. 
+"
+pair_86,"'F' is cheaper plan than and is longer plan than and is faster plan than 'H'. 
+"
+pair_87,"'F' is cheaper plan than and is longer plan than and is faster plan than 'I'. 
+"
+pair_88,"'F' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'J'. 
+"
+pair_89,"'F' is cheaper plan than and is longer plan than and is faster plan than 'K'. 
+"
+pair_90,"'F' is cheaper plan than and is longer plan than and is faster plan than 'L'. 
+"
+pair_91,"'F' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_92,"'F' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'N'. 
+"
+pair_93,"'F' is cheaper plan than and is longer plan than and is faster plan than 'O'. 
+"
+pair_94,"'F' is cheaper plan than and is longer plan than and is faster plan than 'P'. 
+"
+pair_95,"'F' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_96,"'F' is cheaper plan than and is longer plan than and is faster plan than 'R'. 
+"
+pair_97,"'F' is cheaper plan than and is longer plan than and is faster plan than 'S'. 
+"
+pair_98,"'F' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'T'. 
+"
+pair_99,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'H'. 
+"
+pair_100,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'I'. 
+"
+pair_101,"'G' is more expensive plan than and is shorter plan than and is slower plan than 'J'. 
+"
+pair_102,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'K'. 
+"
+pair_103,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'L'. 
+"
+pair_104,"'G' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_105,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'N'. 
+"
+pair_106,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_107,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_108,"'G' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_109,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'R'. 
+"
+pair_110,"'G' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'S'. 
+"
+pair_111,"'G' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_112,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'I'. 
+"
+pair_113,"'H' is more expensive plan than and is shorter plan than and is slower plan than 'J'. 
+"
+pair_114,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'K'. 
+"
+pair_115,"'H' is cheaper plan than and is shorter plan than and is slower plan than 'L'. 
+"
+pair_116,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_117,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'N'. 
+"
+pair_118,"'H' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_119,"'H' is more expensive plan than and is shorter plan than and is slower plan than 'P'. 
+"
+pair_120,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_121,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'R'. 
+"
+pair_122,"'H' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_123,"'H' is cheaper plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_124,"'I' is more expensive plan than and is shorter plan than and is slower plan than 'J'. 
+"
+pair_125,"'I' is cheaper plan than and is longer plan than and is faster plan than 'K'. 
+"
+pair_126,"'I' is more expensive plan than and is shorter plan than and is slower plan than 'L'. 
+"
+pair_127,"'I' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_128,"'I' is plan with same cost as and is shorter plan than and is faster plan than 'N'. 
+"
+pair_129,"'I' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_130,"'I' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_131,"'I' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_132,"'I' is more expensive plan than and is longer plan than and is faster plan than 'R'. 
+"
+pair_133,"'I' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_134,"'I' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_135,"'J' is cheaper plan than and is longer plan than and is faster plan than 'K'. 
+"
+pair_136,"'J' is cheaper plan than and is longer plan than and is faster plan than 'L'. 
+"
+pair_137,"'J' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_138,"'J' is cheaper plan than and is longer plan than and is faster plan than 'N'. 
+"
+pair_139,"'J' is more expensive plan than and is longer plan than and is faster plan than 'O'. 
+"
+pair_140,"'J' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_141,"'J' is cheaper plan than and is longer plan than and is faster plan than 'Q'. 
+"
+pair_142,"'J' is cheaper plan than and is longer plan than and is faster plan than 'R'. 
+"
+pair_143,"'J' is cheaper plan than and is longer plan than and is faster plan than 'S'. 
+"
+pair_144,"'J' is cheaper plan than and is longer plan than and is faster plan than 'T'. 
+"
+pair_145,"'K' is more expensive plan than and is shorter plan than and is slower plan than 'L'. 
+"
+pair_146,"'K' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_147,"'K' is more expensive plan than and is shorter plan than and is slower plan than 'N'. 
+"
+pair_148,"'K' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_149,"'K' is more expensive plan than and is shorter plan than and is slower plan than 'P'. 
+"
+pair_150,"'K' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_151,"'K' is more expensive plan than and is shorter plan than and is slower plan than 'R'. 
+"
+pair_152,"'K' is more expensive plan than and is shorter plan than and is slower plan than 'S'. 
+"
+pair_153,"'K' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_154,"'L' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'M'. 
+"
+pair_155,"'L' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'N'. 
+"
+pair_156,"'L' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_157,"'L' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_158,"'L' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_159,"'L' is cheaper plan than and is longer plan than and is faster plan than 'R'. 
+"
+pair_160,"'L' is cheaper plan than and is longer plan than and is faster plan than 'S'. 
+"
+pair_161,"'L' is cheaper plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_162,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'N'. 
+"
+pair_163,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_164,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_165,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'Q'. 
+"
+pair_166,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'R'. 
+"
+pair_167,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'S'. 
+"
+pair_168,"'M' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'T'. 
+"
+pair_169,"'N' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'O'. 
+"
+pair_170,"'N' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'P'. 
+"
+pair_171,"'N' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_172,"'N' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'R'. 
+"
+pair_173,"'N' is cheaper plan than and is longer plan than and is faster plan than 'S'. 
+"
+pair_174,"'N' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_175,"'O' is cheaper plan than and is shorter plan than and is slower plan than 'P'. 
+"
+pair_176,"'O' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_177,"'O' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'R'. 
+"
+pair_178,"'O' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_179,"'O' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'T'. 
+"
+pair_180,"'P' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'Q'. 
+"
+pair_181,"'P' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'R'. 
+"
+pair_182,"'P' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_183,"'P' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'T'. 
+"
+pair_184,"'Q' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'R'. 
+"
+pair_185,"'Q' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'S'. 
+"
+pair_186,"'Q' is more expensive plan than and is longer plan than and is slower plan than and is worse plan than 'T'. 
+"
+pair_187,"'R' is cheaper plan than and is shorter plan than and is faster plan than and is better plan than 'S'. 
+"
+pair_188,"'R' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
+pair_189,"'S' is more expensive plan than and is shorter plan than and is slower plan than 'T'. 
+"
