@@ -1,2 +1,2 @@
-# KNOW-OX
-Knowledge-based framework for ontology-based explanations.
+# KNOW-ROX
+Knowledge-based framework for robot ontology-based explanations.
