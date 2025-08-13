@@ -1,5 +1,5 @@
 # KNOW-ROX
-Knowledge-based framework for robot ontology-based explanations.
+Knowledge-based framework for robot ontology-based explanations. This framework proposes the integration of sound ontology-based knowledge and the power of language models to generate truthful and natural (human-friendly) explanations. 
 
 
 ### Python3 virtual environment configuration and dependencies
@@ -39,3 +39,14 @@ cd <know_rox_folder>
 chmod +x scripts/sh/update_shared_files_ontology_based_narratives.sh 
 ./scripts/sh/update_shared_files_ontology_based_narratives.sh
 ``` 
+
+
+### Generating explanations using existing ontology-based narratives
+In this example, we are running a script that generates enhanced ontology-based narratives leveraging the capabilities of language models. The constructed explanations are expected to be shorter, easier to understand while keeping the original semantic meaning. Hence, an evaluation is performed using three metrics: number of words, readability score, and semantic (cosine) similarity. 
+
+```
+cd <know_rox_folder>
+python3 scripts/explanation_generation_from_ontology_based_narrative.py
+``` 
+
+The example script may be modified to select the language model to use, and the original ontology-based narratives (dataset and specificity). Note that the language model is expected to be listed within the available models in ***ollama***, and it requires *tool* support. 
