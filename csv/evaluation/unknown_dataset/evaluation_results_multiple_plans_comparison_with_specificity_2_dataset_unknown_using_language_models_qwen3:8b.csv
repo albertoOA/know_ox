@@ -1,0 +1,6 @@
+Pair ID,Dataset,Specificity,Words,Readability score,Cosine similarity
+pair_0,unknown,2,142,5.0,0.8523050351809637
+pair_1,unknown,2,69,7.0,0.6909568697721524
+pair_2,unknown,2,66,4.0,0.8060599359358185
+pair_3,unknown,2,67,7.0,0.8015650417694686
+pair_4,unknown,2,81,6.0,0.7906644663370181

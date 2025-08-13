@@ -1,0 +1,6 @@
+Pair ID,Dataset,Language model,Specificity,Words,Readability score,Cosine similarity
+pair_0,unknown,qwen3:8b,1,11,5.0,0.7756315349925287
+pair_1,unknown,qwen3:8b,1,12,8.0,0.28342171556262064
+pair_2,unknown,qwen3:8b,1,8,3.0,0.7701540462154055
+pair_3,unknown,qwen3:8b,1,16,8.0,0.8381580761249497
+pair_4,unknown,qwen3:8b,1,11,5.0,0.9173649445877259

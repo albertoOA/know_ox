@@ -1,0 +1,6 @@
+Pair ID,Explanation,Modifications,Language model
+pair_0,"Plan A is less expensive, briefer, and slower than Plan B.",Simplified language and condensed structure while retaining all original comparisons.,qwen3:8b
+pair_1,"A is more affordable, quicker, and superior in quality compared to C.","Simplified language by replacing repetitive phrases, combined comparisons into a concise sentence, and used natural synonyms (e.g., 'superior in quality' for 'better plan').",qwen3:8b
+pair_2,"A is cheaper, shorter, and slower than D.","Simplified language by removing redundancy, combined comparisons into one sentence, and retained all original meanings.",qwen3:8b
+pair_3,"Plan A is worse than Plan E because it's more expensive, takes longer, and is slower.",Simplified language and condensed comparisons while retaining all original attributes.,qwen3:8b
+pair_4,"Plan A is more expensive, shorter, and slower than Plan F.","Simplified language and condensed structure while preserving all three comparisons (cost, duration, speed) relative to Plan F.",qwen3:8b

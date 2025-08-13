@@ -1,0 +1,6 @@
+Pair ID,Explanation,Modifications,Language model
+pair_0,"Plan A is cheaper, shorter, and slower than Plan B.",Removed repetitive phrasing and simplified comparative structure while preserving all original semantic relationships.,qwen3:14b
+pair_1,"Plan A is cheaper, shorter, faster, and better than Plan C.",Combined repetitive 'is...than' structures into a concise list; removed redundant 'plan' references.,qwen3:14b
+pair_2,"Plan A is cheaper, shorter, and slower than Plan D.","Condensed the three comparisons into a single clear statement, removed redundant 'plan' references, and simplified the structure while retaining all original comparisons.",qwen3:14b
+pair_3,"Plan A is more expensive, longer, slower, and worse than Plan E.","Simplified repetitive structure, removed redundant 'plan than' phrasing, and condensed into a single concise sentence.",qwen3:14b
+pair_4,"Plan A costs more than F, has a shorter duration, and is slower.","Simplified repetitive phrasing ('more expensive plan than' → 'costs more'), removed redundant 'plan' references, and restructured for clarity and conciseness.",qwen3:14b
