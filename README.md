@@ -11,7 +11,7 @@ cd <know_rox_folder>/python_environment
 python3 -m venv know_rox_venv
 source know_rox_venv/bin/activate
 
-python3 -m pip install pandas ollama pydantic-ai
+python3 -m pip install pandas ollama pydantic-ai textstat scikit-learn
 ```
 
 It is also necessary to install the python modules included in the source folder. 
